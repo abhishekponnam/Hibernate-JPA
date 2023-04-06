@@ -1,0 +1,5 @@
+com\abhishek\otm\entities\ProductEntity.class
+com\abhishek\otm\dao\CategoryDAO.class
+com\abhishek\otm\entities\CategoryEntity.class
+com\abhishek\otm\dao\impl\CategoryDAOImpl.class
+com\abhishek\otm\client\App.class
